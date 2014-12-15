@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1024 768" enable-background="new 0 0 1024 768" xml:space="preserve">
+    <g>
+<path d="M533,241v15.4h26.3v12.9H533v13h26.3v9.8H533v14h26.3v108.8c0,33-21.3,60-47.3,60s-47.3-27-47.3-60v-111h27.7v-14h-27.7V280
+	h27.7v-13h-27.7v-12.9h27.7v-15.4h-27.7V203c0-33,21.3-60,47.3-60s47.3,27,47.3,60v38H533z"/>
+<path id = "curve" fill = "#00A99D" d="M569.3,370.9v44c0,38.6-25.7,70-57.3,70s-57.3-31.4-57.3-70V371h-15v43.9c0,46.9,32.5,85,72.3,85
+	s72.3-38.1,72.3-85v-44.3C579.3,370.7,574.3,370.8,569.3,370.9z"/>
+<path id = "head" d="M533,241v15.4h26.3v12.9H533v13h26.3v9.8H533v14h26.3v108.8c0,33-21.3,60-47.3,60s-47.3-27-47.3-60v-111h27.7v-14h-27.7V280
+	h27.7v-13h-27.7v-12.9h27.7v-15.4h-27.7V203c0-33,21.3-60,47.3-60s47.3,27,47.3,60v38H533z"/>
+<path fill="url(#SVGID_1_)" d="M533,241v15.4h26.3v12.9H533v13h26.3v9.8H533v14h26.3v108.8c0,33-21.3,60-47.3,60s-47.3-27-47.3-60
+	v-111h27.7v-14h-27.7V280h27.7v-13h-27.7v-12.9h27.7v-15.4h-27.7V203c0-33,21.3-60,47.3-60s47.3,27,47.3,60v38H533z"/>
+<rect id = "foot" fill = "#ED1E79" x="464.7" y="519.6" width="94.7" height="25.5"/>
+<rect id = "switcher" fill = "#00A99D" x="492.3" y="488.7" width="39.4" height="30.9"/>
+    </g>
+</svg>
+
+
+
